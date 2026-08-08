@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hitesh Jitendra Badgujar
-### Android Developer — Kotlin · Jetpack Compose · Firebase
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C3489,100:26215C&height=180&section=header&text=Hitesh%20Jitendra%20Badgujar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%94%20Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Firebase&descAlignY=55&descSize=18&descColor=cecbf6" width="100%" />
 
-Building modern, well-architected Android apps — from offline-first data layers to AI-assisted features.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=B19CD9&center=true&vCenter=true&width=600&lines=Building+offline-first%2C+Firebase-backed+Android+apps;Kotlin+%2B+Jetpack+Compose+%2B+Clean+Architecture;AI-assisted+features%2C+real+production-shaped+apps" alt="Typing SVG" />
+
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=flat-square&logo=googlechrome&logoColor=white)](https://hitesh-1501.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
@@ -111,16 +112,28 @@ Use the same <table> pattern as above — two per row, Stack/Architecture/Notabl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hitesh-1501&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-1501&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Hitesh-1501&show_icons=true&hide_border=true&bg_color=00000000&title_color=b19cd9&icon_color=b19cd9&text_color=c9d1d9&ring_color=b19cd9" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-1501&layout=compact&hide_border=true&bg_color=00000000&title_color=b19cd9&text_color=c9d1d9&langs_count=8" width="43%" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&hide_border=true&background=00000000&stroke=b19cd9&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&sideLabels=c9d1d9&dates=808080" width="70%" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&theme=react-dark&hide_border=true&bg_color=00000000&color=b19cd9&line=b19cd9&point=ffffff&area=true&area_color=b19cd9" width="100%" alt="Contribution Activity Graph" />
 
 </div>
+
+> If any card above shows as a plain link instead of an image, GitHub's image proxy is just slow to cache it on first load — refresh the page once and it renders normally.
 
 <br>
 
 ## Let's Connect
 
-📫 **Email:** [badgujarhitesh1501@gmail.com](mailto:badgujarhitesh1501@gmail.com)
-💼 **LinkedIn:** [hitesh-badgujar](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
-🌐 **Portfolio:** [hitesh-1501.github.io/my-portfolio](https://hitesh-1501.github.io/my-portfolio/)
-🧩 **LeetCode:** [hitesh_b1501](https://leetcode.com/u/hitesh_b1501/)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-6E56CF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badgujarhitesh1501@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hitesh-1501.github.io/my-portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hitesh_b1501/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:3C3489&height=100&section=footer" width="100%" />
+
+</div>
