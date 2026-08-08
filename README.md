@@ -4,9 +4,9 @@
 
 <br>
 
-**Building offline-first, Firebase-backed Android apps with Kotlin, Jetpack Compose, and Clean Architecture.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=3DDC84&center=true&vCenter=true&width=600&height=35&lines=Android+Developer;Kotlin+Developer;Jetpack+Compose+Developer;Firebase+Developer;Building+modern+native+Android+apps" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
@@ -89,26 +89,44 @@ Looking for an Android Developer role where I can keep building real, production
 
 ## Featured Projects
 
+<table width="100%">
+<tr>
+<td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;" valign="top">
+
 ### 📱 AI Expense Tracker
 
 Personal-finance Android app with receipt scanning, AI category suggestions, budget tracking, and Firebase cloud sync.
 
 <br>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
-![Compose](https://img.shields.io/badge/Compose-163C2A?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=flat-square&logo=kotlin&logoColor=3DDC84)
+![Compose](https://img.shields.io/badge/Compose-163C2A?style=flat-square&logo=jetpackcompose&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=flat-square&logo=sqlite&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=flat-square&logo=firebase&logoColor=3DDC84)
 
 <br>
 
-**Architecture:** MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
+**Architecture**
+<br>
+MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
 
-**Notable:** Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export.
+**Notable**
+<br>
+Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export.
+
+<br>
 
 **[→ View repository](https://github.com/Hitesh-1501/AIExpenseTracker)**
 
+</td>
+</tr>
+</table>
+
 <br>
+
+<table width="100%">
+<tr>
+<td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;" valign="top">
 
 ### 🛍️ TrenNex
 
@@ -116,31 +134,41 @@ Native Android shopping app with phone-auth, product browsing/search, cart & wis
 
 <br>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
-![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=for-the-badge&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-163C2A?style=for-the-badge&logo=googlemaps&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=flat-square&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=flat-square&logo=sqlite&logoColor=3DDC84)
+![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=flat-square&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=flat-square&logo=firebase&logoColor=3DDC84)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-163C2A?style=flat-square&logo=googlemaps&logoColor=3DDC84)
 
 <br>
 
-**Architecture:** Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
+**Architecture**
+<br>
+Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
 
-**Notable:** Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included.
+**Notable**
+<br>
+Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included.
+
+<br>
 
 **[→ View repository](https://github.com/Hitesh-1501/Trennex-App)**
 
+</td>
+</tr>
+</table>
+
 <br>
 
+> **PrepPilot** — an AI-powered mock-interview app (personalized feedback, weak-area analysis) is in active development and will be added here once its first stable build is public.
+
 <!--
-Add sections for these once one-line descriptions are provided, using the same ### heading + icon-badge-row + Architecture/Notable pattern above:
+Add cards for these once one-line descriptions are provided, using the same bordered <table><td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;"> pattern above:
 - TrenNex-UI-UX
 - Elevate-AI
 - TrelloClone
 - DailyScopeNewsApp
 -->
-
-> **PrepPilot** — an AI-powered mock-interview app (personalized feedback, weak-area analysis) is in active development and will be added here once its first stable build is public.
 
 <br>
 
