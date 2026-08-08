@@ -13,6 +13,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
 [![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
 
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hitesh-1501&color=3DDC84&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 <br>
@@ -185,6 +189,10 @@ Add cards for these once one-line descriptions are provided, using the same bord
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&hide_border=true&bg_color=00000000&color=3DDC84&line=3DDC84&point=ffffff&area=true&area_color=3DDC84" width="100%" alt="Contribution Activity Graph" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hitesh-1501&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&exclude=Followers" alt="GitHub Trophies" />
 
 </div>
 
