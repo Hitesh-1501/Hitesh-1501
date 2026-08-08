@@ -4,14 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=3DDC84&center=true&vCenter=true&width=520&height=40&lines=Kotlin+Developer;Android+Developer;Jetpack+Compose+Enthusiast;Firebase+%26+Clean+Architecture" alt="Typing SVG" />
+**Building offline-first, Firebase-backed Android apps with Kotlin, Jetpack Compose, and Clean Architecture.**
 
-<br><br>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
+[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
 
 </div>
 
@@ -40,38 +40,46 @@ Looking for an Android Developer role where I can keep building real, production
 ## Tech Stack
 
 **Android**
+<br><br>
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-163C2A?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-163C2A?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Material 3](https://img.shields.io/badge/Material%203-163C2A?style=for-the-badge&logo=materialdesign&logoColor=3DDC84)
+![XML Layouts](https://img.shields.io/badge/XML%20Layouts-163C2A?style=for-the-badge&logoColor=3DDC84)
+
 <br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-0D1117?style=flat-square&logo=jetpackcompose&logoColor=3DDC84)
-![Android](https://img.shields.io/badge/Android%20SDK-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
-![Material 3](https://img.shields.io/badge/Material%203-0D1117?style=flat-square&logo=materialdesign&logoColor=3DDC84)
-![XML Layouts](https://img.shields.io/badge/XML%20Layouts-0D1117?style=flat-square&logoColor=3DDC84)
 
 **Architecture**
+<br><br>
+![MVVM](https://img.shields.io/badge/MVVM-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-163C2A?style=for-the-badge&logoColor=3DDC84)
+
 <br>
-![MVVM](https://img.shields.io/badge/MVVM-0D1117?style=flat-square&logoColor=3DDC84)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0D1117?style=flat-square&logoColor=3DDC84)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-0D1117?style=flat-square&logoColor=3DDC84)
 
 **Async & Data**
+<br><br>
+![Coroutines](https://img.shields.io/badge/Coroutines-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![StateFlow](https://img.shields.io/badge/StateFlow-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
+
 <br>
-![Coroutines](https://img.shields.io/badge/Coroutines-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![StateFlow](https://img.shields.io/badge/StateFlow-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-0D1117?style=flat-square&logo=sqlite&logoColor=3DDC84)
 
 **Networking & Backend**
+<br><br>
+![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=for-the-badge&logoColor=3DDC84)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
+
 <br>
-![Retrofit](https://img.shields.io/badge/Retrofit-0D1117?style=flat-square&logoColor=3DDC84)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=3DDC84)
 
 **DI & Tools**
-<br>
-![Hilt](https://img.shields.io/badge/Hilt-0D1117?style=flat-square&logo=dagger&logoColor=3DDC84)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=3DDC84)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=3DDC84)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3DDC84)
+<br><br>
+![Hilt](https://img.shields.io/badge/Hilt-163C2A?style=for-the-badge&logo=dagger&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-163C2A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-163C2A?style=for-the-badge&logo=git&logoColor=3DDC84)
+![Figma](https://img.shields.io/badge/Figma-163C2A?style=for-the-badge&logo=figma&logoColor=3DDC84)
+![Python](https://img.shields.io/badge/Python-163C2A?style=for-the-badge&logo=python&logoColor=3DDC84)
 
 <br>
 
@@ -85,10 +93,14 @@ Looking for an Android Developer role where I can keep building real, production
 
 Personal-finance Android app with receipt scanning, AI category suggestions, budget tracking, and Firebase cloud sync.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![Jetpack Compose](https://img.shields.io/badge/Compose-0D1117?style=flat-square&logo=jetpackcompose&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-0D1117?style=flat-square&logo=sqlite&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=3DDC84)
+<br>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Compose](https://img.shields.io/badge/Compose-163C2A?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
+
+<br>
 
 **Architecture:** MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
 
@@ -102,11 +114,15 @@ Personal-finance Android app with receipt scanning, AI category suggestions, bud
 
 Native Android shopping app with phone-auth, product browsing/search, cart & wishlist persistence, and map-based delivery addresses.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-0D1117?style=flat-square&logo=sqlite&logoColor=3DDC84)
-![Retrofit](https://img.shields.io/badge/Retrofit-0D1117?style=flat-square&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=3DDC84)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-0D1117?style=flat-square&logo=googlemaps&logoColor=3DDC84)
+<br>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
+![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-163C2A?style=for-the-badge&logo=googlemaps&logoColor=3DDC84)
+
+<br>
 
 **Architecture:** Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
 
@@ -154,9 +170,9 @@ Add sections for these once one-line descriptions are provided, using the same #
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
+[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
 
 </div>
