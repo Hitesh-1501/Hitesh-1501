@@ -1,16 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:04342C&height=180&section=header&text=Hitesh%20Jitendra%20Badgujar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%94%20Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Firebase&descAlignY=55&descSize=18&descColor=b7f0d8" width="100%" alt="Hitesh Jitendra Badgujar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:04342C&height=180&section=header&text=Hitesh%20Jitendra%20Badgujar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%94%20Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Firebase&descAlignY=55&descSize=18&descColor=b7f0d8" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=3DDC84&center=true&vCenter=true&width=650&lines=Android+Developer;Kotlin+Developer;Jetpack+Compose+Developer;Firebase+Developer" alt="Typing SVG"/>
+<br>
 
-<br><br>
+**Building offline-first, Firebase-backed Android apps with Kotlin, Jetpack Compose, and Clean Architecture.**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
+[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
 
 </div>
 
 <br>
 
-About Me
+---
+
+<br>
+
+## About Me
 
 I'm a B.Tech Computer Science student specializing in AI & ML, and I spend most of my time building native Android apps in Kotlin and Jetpack Compose.
 
@@ -22,158 +33,146 @@ Looking for an Android Developer role where I can keep building real, production
 
 <br>
 
-<br>
-
-Tech Stack
-
-Android <br><br>
-
-Architecture <br><br>
-
-Async & Data <br><br>
-
-Networking & Backend <br><br>
-
-DI & Tools <br><br>
+---
 
 <br>
 
+## Tech Stack
+
+**Android**
+<br><br>
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-163C2A?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-163C2A?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Material 3](https://img.shields.io/badge/Material%203-163C2A?style=for-the-badge&logo=materialdesign&logoColor=3DDC84)
+![XML Layouts](https://img.shields.io/badge/XML%20Layouts-163C2A?style=for-the-badge&logoColor=3DDC84)
+
 <br>
 
-Featured Projects
+**Architecture**
+<br><br>
+![MVVM](https://img.shields.io/badge/MVVM-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-163C2A?style=for-the-badge&logoColor=3DDC84)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-🧾 AI Expense Tracker
+**Async & Data**
+<br><br>
+![Coroutines](https://img.shields.io/badge/Coroutines-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![StateFlow](https://img.shields.io/badge/StateFlow-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
+
+<br>
+
+**Networking & Backend**
+<br><br>
+![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=for-the-badge&logoColor=3DDC84)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
+
+<br>
+
+**DI & Tools**
+<br><br>
+![Hilt](https://img.shields.io/badge/Hilt-163C2A?style=for-the-badge&logo=dagger&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-163C2A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-163C2A?style=for-the-badge&logo=git&logoColor=3DDC84)
+![Figma](https://img.shields.io/badge/Figma-163C2A?style=for-the-badge&logo=figma&logoColor=3DDC84)
+![Python](https://img.shields.io/badge/Python-163C2A?style=for-the-badge&logo=python&logoColor=3DDC84)
+
+<br>
+
+---
+
+<br>
+
+## Featured Projects
+
+### 📱 AI Expense Tracker
 
 Personal-finance Android app with receipt scanning, AI category suggestions, budget tracking, and Firebase cloud sync.
 
 <br>
 
-Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Compose](https://img.shields.io/badge/Compose-163C2A?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
 
-Kotlin · Jetpack Compose
+<br>
 
-Room · DataStore · WorkManager
+**Architecture:** MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
 
-Firebase (Auth, Firestore, Storage, AI)
+**Notable:** Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export.
 
-Architecture: MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
+**[→ View repository](https://github.com/Hitesh-1501/AIExpenseTracker)**
 
-Notable: Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export.
+<br>
 
-→ View repository
-
-</td>
-
-<td width="50%" valign="top">
-
-🛍️ TrenNex
+### 🛍️ TrenNex
 
 Native Android shopping app with phone-auth, product browsing/search, cart & wishlist persistence, and map-based delivery addresses.
 
 <br>
 
-Tech Stack
-
-Kotlin · Room · Retrofit
-
-Firebase (Auth, Firestore)
-
-Google Maps & Places SDK · Coroutines
-
-Architecture: Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
-
-Notable: Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included.
-
-→ View repository
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🎯 PrepPilot
-
-An AI-powered mock-interview app focused on personalized feedback and weak-area analysis.
-
-Focus
-
-Technical interview practice
-
-Coding practice
-
-HR interview practice
-
-Personalized feedback
-
-Weak-area detection
-
-Progress tracking
-
-Status: Active development
-
-</td>
-
-<td width="50%" valign="top">
-
-📰 DailyScope News
-
-A multilingual Android news application built with MVVM, Room caching, and News API integration.
-
-Tech Stack
-
-Kotlin · MVVM
-
-Room · Retrofit
-
-NewsAPI.org
-
-English · Marathi · Hindi
-
-→ View repository
-
-</td>
-</tr>
-</table>
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
+![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-163C2A?style=for-the-badge&logo=googlemaps&logoColor=3DDC84)
 
 <br>
 
+**Architecture:** Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
+
+**Notable:** Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included.
+
+**[→ View repository](https://github.com/Hitesh-1501/Trennex-App)**
+
 <br>
 
-GitHub Stats
+<!--
+Add sections for these once one-line descriptions are provided, using the same ### heading + icon-badge-row + Architecture/Notable pattern above:
+- TrenNex-UI-UX
+- Elevate-AI
+- TrelloClone
+- DailyScopeNewsApp
+-->
+
+> **PrepPilot** — an AI-powered mock-interview app (personalized feedback, weak-area analysis) is in active development and will be added here once its first stable build is public.
+
+<br>
+
+---
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hitesh-1501&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=C9D1D9&ring_color=3DDC84&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-1501&layout=compact&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=C9D1D9&langs_count=8&card_width=400" width="43%" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&hide_border=true&background=00000000&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3DDC84&sideLabels=c9d1d9&dates=888888" width="70%" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&hide_border=true&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3DDC84&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub Streak Stats"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&hide_border=true&bg_color=0D1117&color=C9D1D9&line=3DDC84&point=FFFFFF&area=true&area_color=3DDC84&custom_title=Hitesh%20Jitendra%20Badgujar%27s%20Contribution%20Graph" width="96%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&hide_border=true&bg_color=00000000&color=3DDC84&line=3DDC84&point=ffffff&area=true&area_color=3DDC84" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
 <br>
 
+---
+
 <br>
 
-Let's Connect
+## Let's Connect
 
 <div align="center">
 
-<a href="YOUR_EMAIL@example.com">EMAIL</a>  •  <a href="YOUR_LINKEDIN_URL">LINKEDIN</a>  •  <a href="YOUR_PORTFOLIO_URL">PORTFOLIO</a>  •  <a href="YOUR_LEETCODE_URL">LEETCODE</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04342C,100:0F6E56&height=100&section=footer" width="100%" alt="Footer"/>
+[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
 
 </div>
