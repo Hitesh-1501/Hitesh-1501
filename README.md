@@ -8,7 +8,7 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hiteshportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
 [![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
@@ -34,6 +34,59 @@ I care about how an app is put together, not just whether it works — clean sep
 Currently exploring: Hilt-based dependency injection, testing Compose UI, and structuring MVI where it earns its complexity over MVVM.
 
 Looking for an Android Developer role where I can keep building real, production-shaped apps.
+
+<br>
+
+---
+
+<br>
+
+## Education
+
+**B.Tech in Computer Science & Engineering (AI & ML)**
+<br>
+G.H. Raisoni College of Engineering and Management, Jalgaon — Aug 2024 to Jul 2027
+<br>
+CGPA: 9.06
+
+**Diploma in Computer Engineering**
+<br>
+KCE Society College of Engineering and Management, Jalgaon — Sep 2021 to Jun 2024
+<br>
+Percentage: 82.69%
+
+```mermaid
+timeline
+    title Education Timeline
+    2021 - 2024 : Diploma in Computer Engineering
+                 : KCE Society College of Engineering and Management
+    2024 - 2027 : B.Tech CSE (AI & ML)
+                 : G.H. Raisoni College of Engineering and Management
+```
+
+<br>
+
+---
+
+<br>
+
+## Certifications
+
+- Android Development
+- Kotlin
+- Figma
+- Firebase
+
+<br>
+
+---
+
+<br>
+
+## Achievements
+
+- Participated in hackathons
+- Regularly solves DSA problems
 
 <br>
 
@@ -84,6 +137,13 @@ Looking for an Android Developer role where I can keep building real, production
 ![Git](https://img.shields.io/badge/Git-163C2A?style=for-the-badge&logo=git&logoColor=3DDC84)
 ![Figma](https://img.shields.io/badge/Figma-163C2A?style=for-the-badge&logo=figma&logoColor=3DDC84)
 ![Python](https://img.shields.io/badge/Python-163C2A?style=for-the-badge&logo=python&logoColor=3DDC84)
+
+<br>
+
+**Cross-Platform**
+<br><br>
+![Dart](https://img.shields.io/badge/Dart-163C2A?style=for-the-badge&logo=dart&logoColor=3DDC84)
+![Flutter](https://img.shields.io/badge/Flutter-163C2A?style=for-the-badge&logo=flutter&logoColor=3DDC84)
 
 <br>
 
@@ -164,11 +224,40 @@ Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore,
 
 <br>
 
+<table width="100%">
+<tr>
+<td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;" valign="top">
+
+### 🎨 TrenNex UI/UX Design
+
+The UI/UX design system behind TrenNex — a modern, clean, interactive shopping-app design inspired by leading e-commerce platforms while keeping its own visual identity.
+
+<br>
+
+![Figma](https://img.shields.io/badge/Figma-163C2A?style=flat-square&logo=figma&logoColor=3DDC84)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-163C2A?style=flat-square&logoColor=3DDC84)
+![Material 3](https://img.shields.io/badge/Material%203-163C2A?style=flat-square&logo=materialdesign&logoColor=3DDC84)
+
+<br>
+
+**Focus**
+<br>
+A minimal yet visually appealing design system and smooth user flow, built as the design counterpart to the TrenNex Android app.
+
+<br>
+
+**[→ View repository](https://github.com/Hitesh-1501/TrenNex-UI-UX)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
 > **PrepPilot** — an AI-powered mock-interview app (personalized feedback, weak-area analysis) is in active development and will be added here once its first stable build is public.
 
 <!--
 Add cards for these once one-line descriptions are provided, using the same bordered <table><td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;"> pattern above:
-- TrenNex-UI-UX
 - Elevate-AI
 - TrelloClone
 - DailyScopeNewsApp
@@ -204,7 +293,7 @@ Add cards for these once one-line descriptions are provided, using the same bord
 
 [![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hiteshportfolio.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
 
 </div>
