@@ -4,7 +4,7 @@
 
 <br>
 
-Building offline-first, Firebase-backed Android apps with Kotlin, Jetpack Compose, and Clean Architecture.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=3DDC84&center=true&vCenter=true&width=520&height=40&lines=Kotlin+Developer;Android+Developer;Jetpack+Compose+Enthusiast;Firebase+%26+Clean+Architecture" alt="Typing SVG" />
 
 <br><br>
 
@@ -43,9 +43,9 @@ Looking for an Android Developer role where I can keep building real, production
 <br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-0D1117?style=flat-square&logo=jetpackcompose&logoColor=3DDC84)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
-![XML](https://img.shields.io/badge/XML%20Layouts-0D1117?style=flat-square&logoColor=3DDC84)
+![Android](https://img.shields.io/badge/Android%20SDK-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
 ![Material 3](https://img.shields.io/badge/Material%203-0D1117?style=flat-square&logo=materialdesign&logoColor=3DDC84)
+![XML Layouts](https://img.shields.io/badge/XML%20Layouts-0D1117?style=flat-square&logoColor=3DDC84)
 
 **Architecture**
 <br>
@@ -57,7 +57,7 @@ Looking for an Android Developer role where I can keep building real, production
 <br>
 ![Coroutines](https://img.shields.io/badge/Coroutines-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
 ![StateFlow](https://img.shields.io/badge/StateFlow-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-0D1117?style=flat-square&logo=sqlite&logoColor=3DDC84)
 
 **Networking & Backend**
 <br>
@@ -67,7 +67,7 @@ Looking for an Android Developer role where I can keep building real, production
 
 **DI & Tools**
 <br>
-![Hilt](https://img.shields.io/badge/Hilt-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
+![Hilt](https://img.shields.io/badge/Hilt-0D1117?style=flat-square&logo=dagger&logoColor=3DDC84)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=3DDC84)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=3DDC84)
@@ -81,36 +81,43 @@ Looking for an Android Developer role where I can keep building real, production
 
 ## Featured Projects
 
-### AI Expense Tracker
+### 📱 AI Expense Tracker
 
 Personal-finance Android app with receipt scanning, AI category suggestions, budget tracking, and Firebase cloud sync.
 
-| | |
-|---|---|
-| **Stack** | Kotlin · Jetpack Compose · Room · WorkManager · Firebase (Auth, Firestore, Storage, AI) · DataStore |
-| **Architecture** | MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries |
-| **Notable** | Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export |
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Compose-0D1117?style=flat-square&logo=jetpackcompose&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-0D1117?style=flat-square&logo=sqlite&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=3DDC84)
+
+**Architecture:** MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
+
+**Notable:** Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export.
 
 **[→ View repository](https://github.com/Hitesh-1501/AIExpenseTracker)**
 
 <br>
 
-### TrenNex
+### 🛍️ TrenNex
 
 Native Android shopping app with phone-auth, product browsing/search, cart & wishlist persistence, and map-based delivery addresses.
 
-| | |
-|---|---|
-| **Stack** | Kotlin · Room · Retrofit · Firebase (Auth, Firestore) · Google Maps & Places SDK · Coroutines |
-| **Architecture** | Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic |
-| **Notable** | Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included |
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-0D1117?style=flat-square&logo=sqlite&logoColor=3DDC84)
+![Retrofit](https://img.shields.io/badge/Retrofit-0D1117?style=flat-square&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=3DDC84)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-0D1117?style=flat-square&logo=googlemaps&logoColor=3DDC84)
+
+**Architecture:** Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
+
+**Notable:** Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included.
 
 **[→ View repository](https://github.com/Hitesh-1501/Trennex-App)**
 
 <br>
 
 <!--
-Add sections for these once one-line descriptions are provided, using the same ### heading + table pattern above:
+Add sections for these once one-line descriptions are provided, using the same ### heading + icon-badge-row + Architecture/Notable pattern above:
 - TrenNex-UI-UX
 - Elevate-AI
 - TrelloClone
