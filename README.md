@@ -1,126 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:04342C&height=180&section=header&text=Hitesh%20Jitendra%20Badgujar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%94%20Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Firebase&descAlignY=55&descSize=18&descColor=b7f0d8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:04342C&height=180&section=header&text=Hitesh%20Jitendra%20Badgujar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Native%20Android%20Engineer%20%7C%20Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20MVI%2FMVVM&descAlignY=55&descSize=17&descColor=b7f0d8" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=3DDC84&center=true&vCenter=true&width=600&height=35&lines=Android+Developer;Kotlin+Developer;Jetpack+Compose+Developer;Firebase+Developer;Building+modern+native+Android+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=3DDC84&center=true&vCenter=true&width=620&height=35&lines=Android+Software+Engineer;Modern+Native+Android+Architectures;Kotlin+%2B+Jetpack+Compose+Specialist;Offline-First+Mobile+Applications" alt="Typing SVG" />
 
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
-[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
-
-<br><br>
+<p align="center">
+  <a href="https://hitesh-1501.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/hitesh-badgujar-b5b489346/"><img src="https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/hitesh_b1501/"><img src="https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84" alt="LeetCode"/></a>
+  <a href="mailto:badgujarhitesh1501@gmail.com"><img src="https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84" alt="Email"/></a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hitesh-1501&color=3DDC84&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-<br>
+---
+
+### Engineering Profile
+
+I am an Android Engineer and Computer Science (AI & ML) student focused on architecting testable, production-ready mobile applications. My technical core centers on native development using **Kotlin**, **Jetpack Compose**, and modern Android architecture standards.
+
+* **Architecture & State**: Clean Architecture, MVVM/MVI, unidirectional data flow (UDF), and reactive state handling via Coroutines and StateFlow.
+* **Data & Persistence**: Robust offline-first data layers using Room DB, DataStore, and remote sync strategies with Firebase and RESTful APIs.
+* **Applied AI in Mobile**: Integrating lightweight machine learning models and computer vision pipelines (OCR/receipt parsing, natural-language interfaces) directly into mobile client workflows.
+* **Engineering Standards**: Implementing dependency injection via Hilt, automated testing (Compose UI & unit tests), and profiling for performance and memory optimization.
 
 ---
 
-<br>
+### Technical Capabilities
 
-## About Me
-
-I'm a B.Tech Computer Science student specializing in AI & ML, and I spend most of my time building native Android apps in Kotlin and Jetpack Compose.
-
-I care about how an app is put together, not just whether it works — clean separation between UI, ViewModel, and repository layers, offline-first data with Room, and Firebase for auth, sync, and storage. Recent projects have pushed me into AI-assisted features (receipt scanning, natural-language expense entry, spending insights), which is where my Android and AI/ML interests meet.
-
-Currently exploring: Hilt-based dependency injection, testing Compose UI, and structuring MVI where it earns its complexity over MVVM.
-
-Looking for an Android Developer role where I can keep building real, production-shaped apps.
-
-<br>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Core & Framework** | Kotlin, Android SDK, Jetpack Compose, Material 3, Android Lifecycle, XML/ViewBinding |
+| **Architecture & State** | Clean Architecture, MVVM, MVI, Repository Pattern, Kotlin Coroutines, StateFlow, SharedFlow |
+| **Data & Networking** | Room Database, AndroidX DataStore, Retrofit, OkHttp, REST APIs, JSON/Moshi |
+| **Cloud & Services** | Firebase (Auth, Firestore, Cloud Storage, Crashlytics), Google Maps SDK |
+| **Tools & Tooling** | Android Studio, Hilt / Dagger, Git, GitHub Actions, Figma, LeetCode (DSA) |
 
 ---
 
-<br>
-
-## Tech Stack
-
-**Android**
-<br><br>
-![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-163C2A?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-163C2A?style=for-the-badge&logo=android&logoColor=3DDC84)
-![Material 3](https://img.shields.io/badge/Material%203-163C2A?style=for-the-badge&logo=materialdesign&logoColor=3DDC84)
-![XML Layouts](https://img.shields.io/badge/XML%20Layouts-163C2A?style=for-the-badge&logoColor=3DDC84)
-
-<br>
-
-**Architecture**
-<br><br>
-![MVVM](https://img.shields.io/badge/MVVM-163C2A?style=for-the-badge&logoColor=3DDC84)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-163C2A?style=for-the-badge&logoColor=3DDC84)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-163C2A?style=for-the-badge&logoColor=3DDC84)
-
-<br>
-
-**Async & Data**
-<br><br>
-![Coroutines](https://img.shields.io/badge/Coroutines-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
-![StateFlow](https://img.shields.io/badge/StateFlow-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
-
-<br>
-
-**Networking & Backend**
-<br><br>
-![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=for-the-badge&logoColor=3DDC84)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-163C2A?style=for-the-badge&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
-
-<br>
-
-**DI & Tools**
-<br><br>
-![Hilt](https://img.shields.io/badge/Hilt-163C2A?style=for-the-badge&logo=dagger&logoColor=3DDC84)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-163C2A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-163C2A?style=for-the-badge&logo=git&logoColor=3DDC84)
-![Figma](https://img.shields.io/badge/Figma-163C2A?style=for-the-badge&logo=figma&logoColor=3DDC84)
-![Python](https://img.shields.io/badge/Python-163C2A?style=for-the-badge&logo=python&logoColor=3DDC84)
-
-<br>
-
----
-
-<br>
-
-## Featured Projects
+### Featured Work
 
 <table width="100%">
 <tr>
-<td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;" valign="top">
+<td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
 
-### 📱 AI Expense Tracker
+### [AI Expense Tracker](https://github.com/Hitesh-1501/AIExpenseTracker)
+*Personal finance application with automated receipt extraction, local-first budgeting, and cloud synchronization.*
 
-Personal-finance Android app with receipt scanning, AI category suggestions, budget tracking, and Firebase cloud sync.
+* **Architecture:** Multi-layered Clean Architecture (Presentation, Domain, Data) with reactive StateFlow streams.
+* **Persistence & Sync:** Offline-first caching via Room DB with real-time bidirectional sync to Firebase Firestore.
+* **Edge Intelligence:** OCR receipt analysis pipeline paired with deterministic rule-based fallbacks for category tagging.
+* **Tooling:** Jetpack Compose, Material 3, Room, Coroutines, Firebase Auth/Firestore, FileProvider (CSV/PDF export).
 
-<br>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![Compose](https://img.shields.io/badge/Compose-163C2A?style=flat-square&logo=jetpackcompose&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-163C2A?style=flat-square&logo=sqlite&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=flat-square&logo=firebase&logoColor=3DDC84)
-
-<br>
-
-**Architecture**
-<br>
-MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
-
-**Notable**
-<br>
-Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export.
-
-<br>
-
-**[→ View repository](https://github.com/Hitesh-1501/AIExpenseTracker)**
+[→ View Source Repository](https://github.com/Hitesh-1501/AIExpenseTracker)
 
 </td>
 </tr>
@@ -130,33 +66,17 @@ Offline-first storage with cloud backup, AI-based receipt/expense extraction wit
 
 <table width="100%">
 <tr>
-<td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;" valign="top">
+<td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
 
-### 🛍️ TrenNex
+### [TrenNex — Modern E-Commerce Client](https://github.com/Hitesh-1501/Trennex-App)
+*High-performance native mobile storefront featuring real-time checkout, secure authentication, and geocoding.*
 
-Native Android shopping app with phone-auth, product browsing/search, cart & wishlist persistence, and map-based delivery addresses.
+* **Architecture:** Component-driven MVVM with isolated Repository interfaces and strict DTO mapping layers.
+* **Auth & Security:** Phone OTP verification backed by Firebase Authentication and fine-grained Firestore security rules.
+* **Location Engine:** Google Maps API integration with reverse-geocoding for dynamic address delivery tracking.
+* **Tooling:** Kotlin, Room DB, Retrofit2, OkHttp, Firebase Authentication, Firestore, Google Play Services Location.
 
-<br>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=flat-square&logo=kotlin&logoColor=3DDC84)
-![Room](https://img.shields.io/badge/Room-163C2A?style=flat-square&logo=sqlite&logoColor=3DDC84)
-![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=flat-square&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=flat-square&logo=firebase&logoColor=3DDC84)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-163C2A?style=flat-square&logo=googlemaps&logoColor=3DDC84)
-
-<br>
-
-**Architecture**
-<br>
-Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
-
-**Notable**
-<br>
-Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included.
-
-<br>
-
-**[→ View repository](https://github.com/Hitesh-1501/Trennex-App)**
+[→ View Source Repository](https://github.com/Hitesh-1501/Trennex-App)
 
 </td>
 </tr>
@@ -164,47 +84,24 @@ Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore,
 
 <br>
 
-> **PrepPilot** — an AI-powered mock-interview app (personalized feedback, weak-area analysis) is in active development and will be added here once its first stable build is public.
-
-<!--
-Add cards for these once one-line descriptions are provided, using the same bordered <table><td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;"> pattern above:
-- TrenNex-UI-UX
-- Elevate-AI
-- TrelloClone
-- DailyScopeNewsApp
--->
-
-<br>
+> **In Development:** **PrepPilot** — An intelligent technical interview preparation system utilizing targeted evaluation metrics, speech-to-text response auditing, and customized skill-gap remediation pipelines.
 
 ---
 
-<br>
-
-## GitHub Stats
+### Contribution & Engineering Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&hide_border=true&background=00000000&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3DDC84&sideLabels=c9d1d9&dates=888888" width="70%" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&hide_border=true&background=00000000&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3DDC84&sideLabels=c9d1d9&dates=888888" width="70%" alt="Hitesh's GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&hide_border=true&bg_color=00000000&color=3DDC84&line=3DDC84&point=ffffff&area=true&area_color=3DDC84" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&hide_border=true&bg_color=00000000&color=3DDC84&line=3DDC84&point=ffffff&area=true&area_color=3DDC84" width="100%" alt="Contribution Graph" />
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-## Let's Connect
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
-
+  <sub>Open to Full-Time Android Engineering & Native Mobile Internship Roles.</sub>
 </div>
