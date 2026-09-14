@@ -21,7 +21,7 @@
 
 ### About Me
 
-I am an **Android Developer** and **UI/UX Designer** pursuing a **B.Tech in Computer Science & Engineering (AIML)** at G.H. Raisoni College of Engineering and Management (CGPA: 9.06), holding a **Diploma in Computer Engineering** (82.69%). 
+I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tech in Computer Science & Engineering (AIML)** at G.H. Raisoni College of Engineering and Management (CGPA: 9.06)[cite: 1], holding a **Diploma in Computer Engineering** (82.69%)[cite: 1].
 
 * **Native & Modern Mobile:** Focused on **Kotlin**, **Jetpack Compose**, **XML Layouts**, and cross-platform UI with **Flutter & Dart**[cite: 1].
 * **Architecture & Scalability:** Building production-grade apps using **Clean Architecture**, **MVVM**, and **Coroutines**[cite: 1].
@@ -105,12 +105,12 @@ I am an **Android Developer** and **UI/UX Designer** pursuing a **B.Tech in Comp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hitesh-1501&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-1501&theme=tokyonight&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3DDC84" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3DDC84" alt="GitHub Streak" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hitesh-1501&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=4" alt="GitHub Trophies" width="49%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&theme=github-compact&hide_border=true&bg_color=0D1117&color=3DDC84&line=3DDC84&point=ffffff&area=true&area_color=163C2A" width="98%" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/3DDC84/Hitesh-1501" alt="Hitesh's GitHub Contribution Grid" width="100%" />
 
 </div>
 
