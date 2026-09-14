@@ -1,62 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:04342C&height=180&section=header&text=Hitesh%20Jitendra%20Badgujar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Kotlin%20%C2%B7%20Compose%20%C2%B7%20Flutter&descAlignY=55&descSize=16&descColor=b7f0d8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:04342C&height=180&section=header&text=Hitesh%20Jitendra%20Badgujar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%94%20Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Firebase&descAlignY=55&descSize=18&descColor=b7f0d8" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=3DDC84&center=true&vCenter=true&width=620&height=35&lines=Android+Developer+%7C+Kotlin+%26+Compose;UI%2FUX+Designer+%7C+Figma+Specialist;Cross-Platform+Explorer+%7C+Flutter+%26+Dart;Building+Offline-First+%26+AI-Driven+Mobile+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=3DDC84&center=true&vCenter=true&width=600&height=35&lines=Android+Developer;Kotlin+Developer;Jetpack+Compose+Developer;Firebase+Developer;Building+modern+native+Android+apps" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://hiteshportfolio.com"><img src="https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/hitesh-badgujar"><img src="https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84" alt="LinkedIn"/></a>
-  <a href="https://github.com/Hitesh-1501"><img src="https://img.shields.io/badge/GitHub-163C2A?style=for-the-badge&logo=github&logoColor=3DDC84" alt="GitHub"/></a>
-  <a href="mailto:badgujarhitesh1501@gmail.com"><img src="https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84" alt="Email"/></a>
-</p>
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
+[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hitesh-1501&color=3DDC84&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
----
-
-### About Me
-
-I am an **Android Developer** and **UI/UX Designer** pursuing a **B.Tech in Computer Science & Engineering (AIML)** at G.H. Raisoni College of Engineering and Management (CGPA: 9.06), holding a **Diploma in Computer Engineering** (82.69%).
-
-* **Native & Modern Mobile:** Focused on **Kotlin**, **Jetpack Compose**, **XML Layouts**, and cross-platform UI with **Flutter & Dart**.
-* **Architecture & Scalability:** Building production-grade apps using **Clean Architecture**, **MVVM**, and **Coroutines**.
-* **Data & Persistence:** Engineering robust offline-first and sync architectures using **Room Database**, **REST APIs**, and **Firebase**.
-* **Design & Experience:** Crafting minimal, intuitive design systems and prototypes in **Figma** with smooth user flows.
+<br>
 
 ---
 
-### Technical Skills
+<br>
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Kotlin, Dart, Python, XML |
-| **Android & Cross-Platform** | Jetpack Compose, Android Studio, Flutter, Android SDK, Material Design |
-| **Architecture & State** | Clean Architecture, MVVM, Kotlin Coroutines, Repository Pattern |
-| **Data & Cloud Backend** | Room Database, Firebase, REST APIs, JSON |
-| **Design & Prototyping** | Figma, Wireframing, Interactive Prototyping, Design Systems |
-| **Version Control & Tools** | Git, GitHub, Android Studio Profiler |
+## About Me
+
+I'm a B.Tech Computer Science student specializing in AI & ML, and I spend most of my time building native Android apps in Kotlin and Jetpack Compose.
+
+I care about how an app is put together, not just whether it works — clean separation between UI, ViewModel, and repository layers, offline-first data with Room, and Firebase for auth, sync, and storage. Recent projects have pushed me into AI-assisted features (receipt scanning, natural-language expense entry, spending insights), which is where my Android and AI/ML interests meet.
+
+Currently exploring: Hilt-based dependency injection, testing Compose UI, and structuring MVI where it earns its complexity over MVVM.
+
+Looking for an Android Developer role where I can keep building real, production-shaped apps.
+
+<br>
 
 ---
 
-### Featured Projects
+<br>
+
+## Tech Stack
+
+**Android**
+<br><br>
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-163C2A?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-163C2A?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Material 3](https://img.shields.io/badge/Material%203-163C2A?style=for-the-badge&logo=materialdesign&logoColor=3DDC84)
+![XML Layouts](https://img.shields.io/badge/XML%20Layouts-163C2A?style=for-the-badge&logoColor=3DDC84)
+
+<br>
+
+**Architecture**
+<br><br>
+![MVVM](https://img.shields.io/badge/MVVM-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-163C2A?style=for-the-badge&logoColor=3DDC84)
+
+<br>
+
+**Async & Data**
+<br><br>
+![Coroutines](https://img.shields.io/badge/Coroutines-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![StateFlow](https://img.shields.io/badge/StateFlow-163C2A?style=for-the-badge&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=for-the-badge&logo=sqlite&logoColor=3DDC84)
+
+<br>
+
+**Networking & Backend**
+<br><br>
+![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=for-the-badge&logoColor=3DDC84)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-163C2A?style=for-the-badge&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=for-the-badge&logo=firebase&logoColor=3DDC84)
+
+<br>
+
+**DI & Tools**
+<br><br>
+![Hilt](https://img.shields.io/badge/Hilt-163C2A?style=for-the-badge&logo=dagger&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-163C2A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-163C2A?style=for-the-badge&logo=git&logoColor=3DDC84)
+![Figma](https://img.shields.io/badge/Figma-163C2A?style=for-the-badge&logo=figma&logoColor=3DDC84)
+![Python](https://img.shields.io/badge/Python-163C2A?style=for-the-badge&logo=python&logoColor=3DDC84)
+
+<br>
+
+---
+
+<br>
+
+## Featured Projects
 
 <table width="100%">
 <tr>
-<td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
+<td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;" valign="top">
 
-### 📱 [AI Expense Tracker](https://github.com/Hitesh-1501/AIExpenseTracker)
-*A modern Jetpack Compose personal-finance Android app with offline storage, multi-device backup, and AI-powered expense processing.*
+### 📱 AI Expense Tracker
 
-* **Tech Stack:** Kotlin, Jetpack Compose, Room Database, Firebase.
-* **Key Features:** Real-time expense monitoring, category budgeting, analytical breakdowns, recurring payments, and automated AI categorization.
-* **Storage & Sync:** Offline-first architecture using Room Database coupled with cloud backup and cross-device synchronization.
+Personal-finance Android app with receipt scanning, AI category suggestions, budget tracking, and Firebase cloud sync.
 
-[→ View Repository](https://github.com/Hitesh-1501/AIExpenseTracker)
+<br>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=flat-square&logo=kotlin&logoColor=3DDC84)
+![Compose](https://img.shields.io/badge/Compose-163C2A?style=flat-square&logo=jetpackcompose&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=flat-square&logo=sqlite&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=flat-square&logo=firebase&logoColor=3DDC84)
+
+<br>
+
+**Architecture**
+<br>
+MVVM with a repository layer bridging Room, DataStore, and Firebase; domain layer for budgets, recurring rules, and export summaries.
+
+**Notable**
+<br>
+Offline-first storage with cloud backup, AI-based receipt/expense extraction with an offline rule-based fallback, CSV/PDF export.
+
+<br>
+
+**[→ View repository](https://github.com/Hitesh-1501/AIExpenseTracker)**
 
 </td>
 </tr>
@@ -66,16 +130,33 @@ I am an **Android Developer** and **UI/UX Designer** pursuing a **B.Tech in Comp
 
 <table width="100%">
 <tr>
-<td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
+<td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;" valign="top">
 
-### 🛍️ [TrenNex — E-Commerce Android App](https://github.com/Hitesh-1501/Trennex-App)
-*A native shopping client engineered for smooth browsing, secure customer onboarding, and interactive location picking.*
+### 🛍️ TrenNex
 
-* **Tech Stack:** Kotlin, XML Layouts, REST APIs, Firebase, Location Services.
-* **Key Features:** OTP-based authentication UI, dynamic product feeds, cart/wishlist management, and real-time location handling.
-* **Architecture:** Structured with MVVM and repository patterns for separation of concerns and clear data flow.
+Native Android shopping app with phone-auth, product browsing/search, cart & wishlist persistence, and map-based delivery addresses.
 
-[→ View Repository](https://github.com/Hitesh-1501/Trennex-App)
+<br>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-163C2A?style=flat-square&logo=kotlin&logoColor=3DDC84)
+![Room](https://img.shields.io/badge/Room-163C2A?style=flat-square&logo=sqlite&logoColor=3DDC84)
+![Retrofit](https://img.shields.io/badge/Retrofit-163C2A?style=flat-square&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-163C2A?style=flat-square&logo=firebase&logoColor=3DDC84)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-163C2A?style=flat-square&logo=googlemaps&logoColor=3DDC84)
+
+<br>
+
+**Architecture**
+<br>
+Fragment-based MVVM with a repository layer for products, cart, and wishlist; ViewModels driving auth, search, and profile logic.
+
+**Notable**
+<br>
+Phone OTP auth, reverse-geocoded delivery addresses saved per-user in Firestore, Firestore security rules included.
+
+<br>
+
+**[→ View repository](https://github.com/Hitesh-1501/Trennex-App)**
 
 </td>
 </tr>
@@ -83,39 +164,47 @@ I am an **Android Developer** and **UI/UX Designer** pursuing a **B.Tech in Comp
 
 <br>
 
-<table width="100%">
-<tr>
-<td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
+> **PrepPilot** — an AI-powered mock-interview app (personalized feedback, weak-area analysis) is in active development and will be added here once its first stable build is public.
 
-### 🎨 [TrenNex — UI/UX Design System](https://github.com/Hitesh-1501)
-*Interactive prototype and modular design system built for modern, minimalist mobile commerce.*
+<!--
+Add cards for these once one-line descriptions are provided, using the same bordered <table><td style="border:1px solid #1f6d4a; border-radius:8px; padding:20px;"> pattern above:
+- TrenNex-UI-UX
+- Elevate-AI
+- TrelloClone
+- DailyScopeNewsApp
+-->
 
-* **Tooling:** Figma.
-* **Design Focus:** High-fidelity wireframes, cohesive typography, Material Design principles, and user-tested checkout flows.
-
-[→ View Design Specs](https://github.com/Hitesh-1501)
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-### GitHub Metrics & Activity
+<br>
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Hitesh-1501&show_icons=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9&border_color=1f6d4a" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hitesh-1501&layout=compact&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9&border_color=1f6d4a" alt="Top Languages" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&hide_border=true&background=00000000&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3DDC84&sideLabels=c9d1d9&dates=888888" width="70%" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/3DDC84/Hitesh-1501" alt="Hitesh's GitHub Contribution Grid" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-1501&hide_border=true&bg_color=00000000&color=3DDC84&line=3DDC84&point=ffffff&area=true&area_color=3DDC84" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
+<br>
+
 ---
 
+<br>
+
+## Let's Connect
+
 <div align="center">
-  <b>📍 Jalgaon, Maharashtra, India</b> • <b>Available for Android Developer & UI/UX Engineering Roles</b>
+
+[![Email](https://img.shields.io/badge/Email-163C2A?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:badgujarhitesh1501@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163C2A?style=for-the-badge&logo=linkedin&logoColor=3DDC84)](https://www.linkedin.com/in/hitesh-badgujar-b5b489346/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-163C2A?style=for-the-badge&logo=googlechrome&logoColor=3DDC84)](https://hitesh-1501.github.io/my-portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-163C2A?style=for-the-badge&logo=leetcode&logoColor=3DDC84)](https://leetcode.com/u/hitesh_b1501/)
+
 </div>
