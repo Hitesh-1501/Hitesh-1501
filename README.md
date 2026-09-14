@@ -21,12 +21,12 @@
 
 ### About Me
 
-I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tech in Computer Science & Engineering (AIML)** at G.H. Raisoni College of Engineering and Management (CGPA: 9.06)[cite: 1], holding a **Diploma in Computer Engineering** (82.69%)[cite: 1].
+I am an **Android Developer** and **UI/UX Designer** pursuing a **B.Tech in Computer Science & Engineering (AIML)** at G.H. Raisoni College of Engineering and Management (CGPA: 9.06), holding a **Diploma in Computer Engineering** (82.69%).
 
-* **Native & Modern Mobile:** Focused on **Kotlin**, **Jetpack Compose**, **XML Layouts**, and cross-platform UI with **Flutter & Dart**[cite: 1].
-* **Architecture & Scalability:** Building production-grade apps using **Clean Architecture**, **MVVM**, and **Coroutines**[cite: 1].
-* **Data & Persistence:** Engineering robust offline-first and sync architectures using **Room Database**, **REST APIs**, and **Firebase**[cite: 1].
-* **Design & Experience:** Crafting minimal, intuitive design systems and prototypes in **Figma** with smooth user flows[cite: 1].
+* **Native & Modern Mobile:** Focused on **Kotlin**, **Jetpack Compose**, **XML Layouts**, and cross-platform UI with **Flutter & Dart**.
+* **Architecture & Scalability:** Building production-grade apps using **Clean Architecture**, **MVVM**, and **Coroutines**.
+* **Data & Persistence:** Engineering robust offline-first and sync architectures using **Room Database**, **REST APIs**, and **Firebase**.
+* **Design & Experience:** Crafting minimal, intuitive design systems and prototypes in **Figma** with smooth user flows.
 
 ---
 
@@ -34,12 +34,12 @@ I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tec
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Kotlin, Dart, Python, XML[cite: 1] |
-| **Android & Cross-Platform** | Jetpack Compose, Android Studio, Flutter, Android SDK, Material Design[cite: 1] |
-| **Architecture & State** | Clean Architecture, MVVM, Kotlin Coroutines, Repository Pattern[cite: 1] |
-| **Data & Cloud Backend** | Room Database, Firebase, REST APIs, JSON[cite: 1] |
-| **Design & Prototyping** | Figma, Wireframing, Interactive Prototyping, Design Systems[cite: 1] |
-| **Version Control & Tools** | Git, GitHub, Android Studio Profiler[cite: 1] |
+| **Languages** | Kotlin, Dart, Python, XML |
+| **Android & Cross-Platform** | Jetpack Compose, Android Studio, Flutter, Android SDK, Material Design |
+| **Architecture & State** | Clean Architecture, MVVM, Kotlin Coroutines, Repository Pattern |
+| **Data & Cloud Backend** | Room Database, Firebase, REST APIs, JSON |
+| **Design & Prototyping** | Figma, Wireframing, Interactive Prototyping, Design Systems |
+| **Version Control & Tools** | Git, GitHub, Android Studio Profiler |
 
 ---
 
@@ -49,14 +49,14 @@ I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tec
 <tr>
 <td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
 
-### 📱 [AI Expense Tracker](https://github.com/Hitesh-1501)
-*A modern Jetpack Compose personal-finance Android app with offline storage, multi-device backup, and AI-powered expense processing.*[cite: 1]
+### 📱 [AI Expense Tracker](https://github.com/Hitesh-1501/AIExpenseTracker)
+*A modern Jetpack Compose personal-finance Android app with offline storage, multi-device backup, and AI-powered expense processing.*
 
-* **Tech Stack:** Kotlin, Jetpack Compose, Room Database, Firebase[cite: 1].
-* **Key Features:** Real-time expense monitoring, category budgeting, analytical breakdowns, recurring payments, and automated AI categorization[cite: 1].
-* **Storage & Sync:** Offline-first architecture using Room Database coupled with cloud backup and cross-device synchronization[cite: 1].
+* **Tech Stack:** Kotlin, Jetpack Compose, Room Database, Firebase.
+* **Key Features:** Real-time expense monitoring, category budgeting, analytical breakdowns, recurring payments, and automated AI categorization.
+* **Storage & Sync:** Offline-first architecture using Room Database coupled with cloud backup and cross-device synchronization.
 
-[→ View Repository](https://github.com/Hitesh-1501)
+[→ View Repository](https://github.com/Hitesh-1501/AIExpenseTracker)
 
 </td>
 </tr>
@@ -68,14 +68,14 @@ I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tec
 <tr>
 <td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
 
-### 🛍️ [TrenNex — E-Commerce Android App](https://github.com/Hitesh-1501)
-*A native shopping client engineered for smooth browsing, secure customer onboarding, and interactive location picking.*[cite: 1]
+### 🛍️ [TrenNex — E-Commerce Android App](https://github.com/Hitesh-1501/Trennex-App)
+*A native shopping client engineered for smooth browsing, secure customer onboarding, and interactive location picking.*
 
-* **Tech Stack:** Kotlin, XML Layouts, REST APIs, Firebase, Location Services[cite: 1].
-* **Key Features:** OTP-based authentication UI, dynamic product feeds, cart/wishlist management, and real-time location handling[cite: 1].
-* **Architecture:** Structured with MVVM and repository patterns for separation of concerns and clear data flow[cite: 1].
+* **Tech Stack:** Kotlin, XML Layouts, REST APIs, Firebase, Location Services.
+* **Key Features:** OTP-based authentication UI, dynamic product feeds, cart/wishlist management, and real-time location handling.
+* **Architecture:** Structured with MVVM and repository patterns for separation of concerns and clear data flow.
 
-[→ View Repository](https://github.com/Hitesh-1501)
+[→ View Repository](https://github.com/Hitesh-1501/Trennex-App)
 
 </td>
 </tr>
@@ -88,10 +88,10 @@ I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tec
 <td style="border: 1px solid #1f6d4a; border-radius: 8px; padding: 20px;">
 
 ### 🎨 [TrenNex — UI/UX Design System](https://github.com/Hitesh-1501)
-*Interactive prototype and modular design system built for modern, minimalist mobile commerce.*[cite: 1]
+*Interactive prototype and modular design system built for modern, minimalist mobile commerce.*
 
-* **Tooling:** Figma[cite: 1].
-* **Design Focus:** High-fidelity wireframes, cohesive typography, Material Design principles, and user-tested checkout flows[cite: 1].
+* **Tooling:** Figma.
+* **Design Focus:** High-fidelity wireframes, cohesive typography, Material Design principles, and user-tested checkout flows.
 
 [→ View Design Specs](https://github.com/Hitesh-1501)
 
@@ -105,8 +105,8 @@ I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tec
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Hitesh-1501&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3DDC84" alt="GitHub Streak" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Hitesh-1501&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=4" alt="GitHub Trophies" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Hitesh-1501&show_icons=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9&border_color=1f6d4a" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hitesh-1501&layout=compact&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9&border_color=1f6d4a" alt="Top Languages" width="48%" />
 
 <br><br>
 
@@ -117,5 +117,5 @@ I am an **Android Developer** and **UI/UX Designer**[cite: 1] pursuing a **B.Tec
 ---
 
 <div align="center">
-  <b>📍 Jalgaon, Maharashtra, India</b>[cite: 1] • <b>Available for Android Developer & UI/UX Engineering Roles</b>[cite: 1]
+  <b>📍 Jalgaon, Maharashtra, India</b> • <b>Available for Android Developer & UI/UX Engineering Roles</b>
 </div>
